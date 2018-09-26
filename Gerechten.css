@@ -9,13 +9,12 @@ div.container{
 }
 
 
-
-h1{
+h1{color: black;
 	font-size: 36px;
 	line-height: 36px;
 }
 
-h2{
+h2{color: black;
 	font-size: 24px;
 	line-height:32px;
 }
@@ -32,8 +31,12 @@ h1{
 	padding: 20px;
 }
 
-
-	
+.foto{
+	width: ;
+	height: ;
+	padding-right: 5px;
+	border-radius: 5px;
+}
 
 nav ul{
 	padding: 10px;
@@ -61,5 +64,4 @@ nav ul li a {
 	border-radius:4px;
 	font-size: 20px;
 	line-height:26px;
-	padding:10px;
 }
