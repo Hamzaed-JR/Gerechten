@@ -1,11 +1,12 @@
-body{
+﻿body{
 	font-family:roboto;
 	font-size: 20px;
 	line-height: 26px;
 }
 
-div.container{
+.container{
 	margin:0 auto;
+	width: 50%;
 }
 
 
