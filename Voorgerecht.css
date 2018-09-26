@@ -1,0 +1,69 @@
+.page1{
+	font-family:roboto;
+	background-color : white;
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%
+		margin: 0 auto;
+}
+h1{color: black;
+	font-size: 36px;
+	line-height: 36px
+}
+p{color: black;
+	font-size: 20px
+	line-height: 26px;
+}
+h2{color: black
+	font-size: 24px;
+	line-height:32px;
+}
+h1
+{border-bottom: 1px solid black
+}
+
+ol{
+	font-size: 20px
+	line-height: 26px
+	padding:20px;
+}
+.Ingrendiënten{
+	padding-bottom: 10px
+	font-size:20px
+	line-height:26px;
+}
+.Bereidingswijze{
+	padding-bottom: 20px;
+	font-size: 20px;
+	line-height: 26px;
+}
+.foto1{
+width: 75%;
+height: 60%;
+padding-right: 5px;
+border-radius: 5px;
+}
+nav ul{
+	padding: 10px;
+	text-align:center;
+	background-color:#def6ed;
+	margin:0;
+	border-radius:5px;
+}
+nav ul li {
+	display: inline;
+}
+nav ul li a {
+	text-decoration:none; 
+    font-family:roboto;
+    color:black;
+    padding: 4px 2px;
+	background-color:#def6ed;
+}
+.z{
+	background-color: #def6ed;
+	text-align: center;
+	border-radius:4px;
+	font-size: 20px;
+	line-height:26px;
+}

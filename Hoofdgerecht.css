@@ -1,0 +1,85 @@
+body {background-color :;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{color: black;
+	font-size: 36px;
+	line-height: 36px
+}
+
+p{color: black;
+	font-size: 20px
+	line-height: 26px;
+}
+
+h2{color: black
+	font-size: 24px;
+	line-height:32px;
+}
+
+h1
+{border-bottom: 1px solid black}
+
+
+
+div{
+	margin: 0 auto;
+}
+
+ul{
+	font-size: 20px
+	line-height: 26px
+	padding:10px;
+}
+
+ol{
+	font-size: 20px
+	line-height: 26px
+	padding:20px;
+}
+
+.Ingrendiënten{
+	margin:40px;
+}
+
+.Bereidingswijze{
+	margin:40px;
+}
+
+.foto1{
+width: 75%;
+height: 60%;
+float: ;
+clear: ;
+padding-right: 5px;
+border-radius: 5px;}
+
+nav ul{
+	padding: 10px;
+	text-align:center;
+	background-color:#def6ed;
+	margin:0;
+	border-radius:5px;
+}
+
+nav ul li {
+	display: inline;}
+
+nav ul li a {
+	text-decoration:none; 
+    font-family:Arial;
+    color:black;
+    padding: 4px 2px;
+	background-color:#def6ed;
+}
+
+h3{
+	background-color: #def6ed;
+	text-align: center;
+	border-radius:4px;
+	font-size: 20px;
+	line-height:26px;
+}
